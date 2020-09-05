@@ -1,7 +1,7 @@
-textfiles/*.aux
-textfiles/*.fdb_latexmk
-textfiles/*.fls
-textfiles/*.log
-textfiles/*.out
-textfiles/*.gz
-textfiles/home
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.gz
+home
