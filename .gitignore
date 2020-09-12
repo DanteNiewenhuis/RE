@@ -8,4 +8,5 @@ home
 *.bbl
 *.bcf
 *.blg
+*.toc
 *.run.xml
