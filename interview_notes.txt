@@ -1,0 +1,128 @@
+(0:30) -- introduction
+
+Damiaan has done the bachelors computer science at UvA. In his third year 
+he went on exchange and got an internship offer in Canada. He did the 
+internship for 8 months. After he did a masters AI in London. Then he went 
+freelancing in the netherlands for around 8 months. Around two years ago 
+he started working for the company he is working for now.
+
+(2:30) -- Why did you decide to do your masters in the UK and not on the UvA
+
+Damiaan was ready for something new. He also had some bad experiences with the 
+students at the UvA bachelor. He wanted more competition.
+Another setting was also appealing.
+
+(4:50) -- What was the difference between studying in London and UvA
+
+The same topics. The one in London is 90 EC in one year. Exams are much harder
+because they are only 90 minutes
+
+(7:30) -- Is that a good thing?
+
+Damiaan is not sure if it is better because it learns you to perform under 
+high pressure.
+
+(9:20) -- Was your freelancing work related to you masters AI
+
+Damiaan states that he had been working since 2011. He kept working there 
+for the whole acadamic career. After his studies he continued working there. 
+He is working at a spinoff of that company now.
+
+(10:40) -- How was your transition from study to work.
+
+Damiaan worked for 8 months during his bachelor and thinks this was very important for 
+him. He learned to apply what he learned during his bachelors and it gave him 
+the opportunity to know what he was interested in. 
+
+Because of his experience he didn't feel like there was a big difference when 
+going to work. He did say that he was very tired when working full time. It took 
+him more than 1.5 year to get use to it.
+
+(13:50) -- Do you think work should be more included in the university studies?
+
+Damiaan thinks it is tricky in the Netherlands since we have HBO which is 
+meant to be applied. He is concerned that the value of a university degree 
+might decrease. He also says that there is enough room for university students 
+in companies.
+
+(15:00) -- Why did you decide to do a masters instead of continuing your internship.
+
+He was of the opinion that he had seen enough at the company. He went back to 
+do other courses. Damiaan states that you can be blinded by the money but he 
+wanted some change and to study and says that that is more important than money.
+He also wanted to work more with mathematical problem which he felt he was not 
+doing.
+
+(20:00) -- What is the biggest difference between studying and work.
+
+It is different for everybody. Damiaan likes the academic way where you are 
+tackling complex problems. A company is only interested in making money so it 
+will not necessarily want you to solve complex problems. 
+This means that you will do more tasks that are more uninteresting. 
+Damiaan talks about his company and what they do. They create software for 
+different parties including the fire department. The people from the fire 
+department aren't really handy with technology so if something goes wrong, 
+they will call Damiaan. This means that Damiaan is helping them a lot, 
+which he does not find very interesting.
+Damiaan thinks it is much less interesting to work compared to for instance 
+writing your thesis. He still tries to implement interesting things in their 
+company.
+
+(28:00) -- What is your role in the company
+
+Formaly Damiaan is the CTO, but the company does not have strict hierarchy since 
+they are only 5 people. Damiaan leads the programming team.
+
+(29:00) -- How much do you still programming
+
+Still more than 60%, but that is because the company is not that big. 
+The other time is spend having meeting and working together with other 
+companies.
+
+(31:00) -- Do you feel there are many differences between big and small companies, 
+            and which do you prefer?
+
+Damiaan thinks there are some differences. In big companies you have more 
+hierarchy and things are more organized. In smaller companies you have more 
+freedoms and more impact. Damiaan likes a smaller company better because he 
+can have more impact.
+
+(34:00) -- do you advise to start at a big or a small company after studies?
+
+Damiaan thinks going to a bigger company is better because things are more 
+organized and you will learn quicker. You will also see many things because 
+they have much more things
+
+(36:00) -- Do you think it is important to switch jobs often?
+
+In the software engineering world switching companies every few years is 
+beneficial. Damiaan does think it is not a bad thing to stay at the same company 
+if you aren't compromising to much for it. Damiaan has been interviewing while 
+he is working now. Damiaan does not like interviewing because you have to 
+prepare many things that will not be of any use when you are working somewhere. 
+
+(40:00) -- What do you think is important when you are searching for a job?
+
+Damiaan thinks that the benefits should be similar to what he has now. 
+He says he would take a salary cut, but only if he gets other benefits like 
+the location being much better.
+
+Damiaan is also looking for a job where he is solving complex mathematical problems 
+but he has not been able to find it. Damiaan also thinks jobs look to much at 
+experience compared to potential. 
+Damiaan also want to make an impact and the jobs should be aligned with 
+his ideals. The ideal for Damiaan would be a small company that works based 
+on academic research and makes a product that improves the world.
+
+Damiaan did get an offer from a such a company that was in oxford, but he 
+turned it down due to everything around it. Damiaan is currently in a dilemma 
+because his company is not very interesting but leaving would be a waste. 
+
+Damiaan is also still thinking about PHD but thinks he than just delaying the 
+problem.
+
+(1:00:00) We start a discussion about the current AI market. 
+Damiaan states that the biggest difference between work and studying is that 
+you do very interesting things during your study but you will not do those things 
+when working. 
+
